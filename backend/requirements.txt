@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openai
+langchain
+beautifulsoup4
+textract
